@@ -1,0 +1,183 @@
+body {
+  background-color: rgb(32, 36, 68);
+  font: 400 1.375em/1.38 'Kite One';
+  color: rgb(255, 255, 255);
+}
+
+.connect-with-us {
+  width: 665px;
+  height: 147px;
+  margin: 15px auto 0;
+}
+
+.count-down {
+  position: relative;
+  width: 954px;
+  height: 350px;
+  margin: -57px auto 0;
+}
+
+.countdown {
+  float: left;
+  width: 184px;
+  height: 166px;
+  margin-top: 71px;
+  border-radius: 5px;
+  background-color: rgb(238, 238, 238);
+}
+
+.email {
+  display: block;
+  float: left;
+  width: 46.6666666666%;
+  height: 85px;
+  margin: 39px 0 0 2.6666666666%;
+  padding: 0 10px;
+  background-color: rgb(242, 242, 242);
+  font-size: 1.818em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-indent: 10px;
+  color: rgb(0, 0, 0);
+}
+
+.fb .fb {
+  width: 128px;
+  height: auto;
+  margin: 1px 0 0 -0.7874015749%;
+  overflow: hidden;
+}
+
+.follow-us {
+  float: left;
+  width: 20.902255639%;
+  margin: 54px 0 0 12.932330827%;
+  font-size: 1.364em;
+  line-height: 1.38;
+  color: rgb(255, 255, 255);
+}
+
+.keep-up {
+  position: relative;
+  width: 1200px;
+  height: 173px;
+  margin: -19px auto 0;
+  background-color: rgba(8, 6, 6, 0.57);
+}
+
+.keep-updated {
+  float: left;
+  width: 16.4166666666%;
+  margin: 63px 0 0 5.3333333333%;
+  font-size: 1.364em;
+  line-height: 1.38;
+  color: rgb(255, 255, 255);
+}
+
+.left-num {
+  float: left;
+  width: 55.9782608695%;
+  margin-top: 21px;
+  font: 4.091em/1.38 Ubuntu;
+  text-align: center;
+  color: rgb(0,0,0);
+}
+
+.logo {
+  width: 22.5833333333%;
+  margin: 35px auto 0;
+  text-shadow: 1px 3px 5px rgba(0, 0, 0, 0.5);
+  font-size: 2.818em;
+  line-height: 1.38;
+  color: rgb(255, 255, 255);
+}
+
+.main {
+  float: left;
+  clear: both;
+  width: 100%;
+  height: 618px;
+}
+
+.remaining-lbl {
+  float: left;
+  clear: both;
+  width: 100%;
+  min-height: 42px;
+  margin-top: 45px;
+  font: 1em/1.38 Raleway;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.submit {
+  display: block;
+  float: left;
+  width: 16.6666666666%;
+  height: 85px;
+  margin: 39px 0 0 5.0833333333%;
+  border-bottom: 4px solid rgb(73, 12, 12);
+  border-radius: 3px;
+  background-color: rgb(115, 12, 12);
+  font: 1.591em/2 Nobile;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  resize: none;
+}
+
+.fb,
+.twitter {
+  display: block;
+  float: left;
+}
+
+.twitter .twitter {
+  width: 128px;
+  height: auto;
+  margin-left: -0.78125%;
+  overflow: hidden;
+}
+
+._container {
+  float: left;
+  width: 100%;
+  height: 175px;
+}
+
+.countdown-1 {
+  margin-left: 4.821802935%;
+}
+
+.countdown-2 {
+  margin-left: 3.9832285115%;
+}
+
+.countdown-3 {
+  margin-left: 4.1928721174%;
+}
+
+.countdown-4 {
+  margin-left: 4.9266247379%;
+}
+
+.fb-1 {
+  width: 19.0977443609%;
+  height: 128px;
+  margin: 10px 0 0 7.0676691729%;
+}
+
+.left-num-1 {
+  margin-left: 23.9130434782%;
+}
+
+.left-num-2,
+.left-num-3,
+.left-num-4 {
+  margin-left: 23.3695652173%;
+}
+
+.twitter-1 {
+  width: 19.2481203007%;
+  height: 128px;
+  margin: 10px 0 0 5.8646616541%;
+}
